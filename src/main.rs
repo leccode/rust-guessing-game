@@ -10,7 +10,7 @@ use std::io;
 use rand::prelude::*;
 
 /*
-This is main function is the entry point of the program.
+This main function is the entry point of the program.
 It generates a random number 1-100, the user enters a value,
 and in case the value is not an integer, then forces the user
 to enter a new value in a loop. Then the input value is compared
